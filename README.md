@@ -1,6 +1,6 @@
 # Content Loader System
 
-This system includes both uploader and loader applications. BundleAssets are uploaded with content-uploader, and these assets are loaded with content-loader. In this way, the models displayed in the content-loader application can be updated remotely.
+This system includes both <b>content-designer</b> and <b>content-loader</b> applications. BundleAssets are uploaded with <b>content-designer</b>, and these assets are loaded with <b>content-loader</b>. In this way, the models displayed in the <b>content-loader</b> application can be updated remotely.
 
 # Description
 
