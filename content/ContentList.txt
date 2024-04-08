@@ -1,14 +1,14 @@
 [
     {
         "assetName" : "dancer",
-        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/content-loader-system/content/main/AssetBundles/dancer-Android"
+        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/content-loader-system/main/content/AssetBundles/dancer-Android"
     },
     {
         "assetName" : "kid",
-        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/content-loader-system/content/main/AssetBundles/kid-Android"
+        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/content-loader-system/main/content/AssetBundles/kid-Android"
     },
     {
         "assetName" : "monster",
-        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/content-loader-system/content/main/AssetBundles/monster-Android"
+        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/content-loader-system/main/content/AssetBundles/monster-Android"
     }
 ]

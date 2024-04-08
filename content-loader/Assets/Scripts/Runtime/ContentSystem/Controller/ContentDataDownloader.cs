@@ -11,7 +11,7 @@ namespace Runtime.ContentSystem.Controller
 {
     public class ContentDataDownloader : MonoBehaviour
     {
-        public const string URL = "https://raw.githubusercontent.com/tariksavas/ContentForEditor/main/DownloadList.txt";
+        public const string URL = "https://raw.githubusercontent.com/tariksavas/content-loader-system/main/content/ContentList.txt";
 
         public static async Task<ContentDataDTO[]> GetContentDTOAsync()
         {
