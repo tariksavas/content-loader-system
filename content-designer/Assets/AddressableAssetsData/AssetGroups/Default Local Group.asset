@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a1c1272e45fde394bab46e37e75d7bef
+  m_SerializeEntries:
+  - m_GUID: 3ac06d596098d5643b7b943b37db83cf
+    m_Address: Dancer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4894159852814365614, guid: 3ac06d596098d5643b7b943b37db83cf, type: 3}
+    m_TargetAsset: {fileID: 4894159852814365614, guid: 3ac06d596098d5643b7b943b37db83cf, type: 3}
+  - m_GUID: 11fbec39a1530e54ca9a665681f25dab
+    m_Address: Kid.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ddbea669338750c429af67dea2f3757b
+    m_Address: Monster.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1f05b712ecc4f2e45989d0f202560ba6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 402eb5524f0f8ea40a2987ecd31cc74d, type: 2}
+    - {fileID: 11400000, guid: b33186d69edd62e4a9a4cc392dd3237d, type: 2}
