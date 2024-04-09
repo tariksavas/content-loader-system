@@ -1,6 +1,6 @@
 ﻿namespace Runtime.LogSystem.Model
 {
-    public enum LogType
+    public enum LogType : byte
     {
         Information,
         Warning,
